@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Application Portal Login</title>
+
+    <!-- Connect the CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="form-container">
+        <h2>Application Portal</h2>
+        <p>Log in to your account</p>
+
+        <form action="/login" method="POST">
+
+            <div class="form-group">
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email"
+                       placeholder="Enter your email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" id="password"
+                       name="password"
+                       placeholder="Enter your password" required>
+            </div>
+
+            <button type="submit">Log In</button>
+        </form>
+
+        <p class="form-links">
+            <a href="/forgot-password">Forgot Password?</a>
+        </p>
+
+        <p class="form-links">
+            Don't have an account?
+            <a href="register.html">Create Account</a>
+        </p>
+    </div>
+
+</body>
+</html>

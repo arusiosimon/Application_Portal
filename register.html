@@ -4,58 +4,102 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Create Account</title>
 
-    <!-- Use the same CSS file -->
+    <title>MUST ADMISSION PORTAL | Create Account</title>
+
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-    <div class="form-container">
-        <h2>Create Account</h2>
-        <p>Register to access the application portal</p>
+    <main class="form-container">
 
-        <form action="/register" method="POST">
+        <header class="form-header">
 
-            <div class="form-group">
-                <label for="fullname">Full Name</label>
-                <input type="text" id="fullname"
-                       name="fullname"
-                       placeholder="Enter your full name" required>
-            </div>
+            <img src="Photo/must-logo.png"  alt="Mbarara University of Science and Technology logo"
+     class="logo">
 
-            <div class="form-group">
-                <label for="email">Email Address</label>
-                <input type="email" id="email"
-                       name="email"
-                       placeholder="Enter your email" required>
-            </div>
+            <h1 class="university-title">
+                MBARARA UNIVERSITY OF SCIENCE AND TECHNOLOGY
+            </h1>
 
-            <div class="form-group">
-                <label for="password">Password</label>
-                <input type="password" id="password"
-                       name="password"
-                       placeholder="Create a password"
-                       minlength="8" required>
-            </div>
+            <h2 class="application-title">
+                MUST ADMISSION PORTAL
+            </h2>
 
-            <div class="form-group">
-                <label for="confirm-password">
-                    Confirm Password
-                </label>
-                <input type="password" id="confirm-password"
-                       name="confirm_password"
-                       placeholder="Re-enter your password" required>
-            </div>
+            <p class="form-subtitle">Create Account</p>
 
-            <button type="submit">Create Account</button>
-        </form>
+        </header>
 
-        <p class="form-links">
-            Already have an account?
-            <a href="login.html">Log In</a>
-        </p>
-    </div>
+        <section class="form-content" aria-label="Account registration">
+
+            <form action="/register" method="POST">
+
+                <div class="form-group">
+                    <label for="fullname">Full Name</label>
+
+                    <input
+                        type="text"
+                        id="fullname"
+                        name="fullname"
+                        placeholder="Enter your full name"
+                        autocomplete="name"
+                        required>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email Address</label>
+
+                    <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        placeholder="Enter your email address"
+                        autocomplete="email"
+                        required>
+                </div>
+
+                <div class="form-group">
+                    <label for="password">Password</label>
+
+                    <input
+                        type="password"
+                        id="password"
+                        name="password"
+                        placeholder="Create a password"
+                        autocomplete="new-password"
+                        minlength="8"
+                        required>
+                </div>
+
+                <div class="form-group">
+                    <label for="confirm-password">
+                        Confirm Password
+                    </label>
+
+                    <input
+                        type="password"
+                        id="confirm-password"
+                        name="confirm_password"
+                        placeholder="Enter your password again"
+                        autocomplete="new-password"
+                        required>
+                </div>
+
+                <button type="submit">Create Account</button>
+
+            </form>
+
+        </section>
+
+        <footer class="form-footer">
+            <p>
+                Already have an account?
+                <a href="Login.html">Log In</a>
+            </p>
+        </footer>
+
+    </main>
 
 </body>
 </html>

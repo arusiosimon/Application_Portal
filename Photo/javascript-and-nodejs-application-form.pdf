@@ -1,0 +1,183 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 3104 >>
+stream
+q
+0.957 0.969 0.984 rg
+0 0 m 960 0 l 960 0 960 0 c 960 540 l 960 540 960 540 c 0 540 l 0 540 0 540 c 0 0 l 0 0 0 0 c
+f
+Q
+BT /F2 12 Tf 0.196 0.451 0.659 rg 1 0 0 1 48 500 Tm (01  /  BROWSER) Tj ET
+BT /F2 34 Tf 0.071 0.188 0.290 rg 1 0 0 1 48 451 Tm (What is JavaScript?) Tj ET
+BT /F1 17 Tf 0.322 0.420 0.510 rg 1 0 0 1 48 422 Tm (JavaScript makes the student application form respond to the student.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.847 0.890 0.933 RG 1.2 w
+62 166 m 239 166 l 253 166 253 180 c 253 350 l 253 364 239 364 c 62 364 l 48 364 48 350 c 48 180 l 48 166 62 166 c
+B
+Q
+BT /F2 12 Tf 0.392 0.502 0.604 rg 1 0 0 1 68 334 Tm (STUDENT) Tj ET
+BT /F2 19 Tf 0.090 0.196 0.302 rg 1 0 0 1 68 295 Tm (Fills in the form) Tj ET
+BT /F1 14 Tf 0.090 0.196 0.302 rg 1 0 0 1 68 263 Tm (Name) Tj ET
+q 1 w
+0.788 0.839 0.886 RG 68 252 m 225 252 l S
+Q
+BT /F1 14 Tf 0.090 0.196 0.302 rg 1 0 0 1 68 225 Tm (Email) Tj ET
+q 1 w
+0.788 0.839 0.886 RG 68 214 m 225 214 l S
+Q
+q
+0.898 0.945 0.984 rg
+74 176 m 188 176 l 194 176 194 182 c 194 194 l 194 200 188 200 c 74 200 l 68 200 68 194 c 68 182 l 68 176 74 176 c
+f
+Q
+BT /F2 12 Tf 0.137 0.396 0.596 rg 1 0 0 1 82 185 Tm (Submit form) Tj ET
+q
+0.918 0.957 0.988 rg
+0.722 0.839 0.925 RG 1.2 w
+300 166 m 530 166 l 544 166 544 180 c 544 350 l 544 364 530 364 c 300 364 l 286 364 286 350 c 286 180 l 286 166 300 166 c
+B
+Q
+BT /F2 12 Tf 0.196 0.451 0.659 rg 1 0 0 1 308 334 Tm (BROWSER + JAVASCRIPT) Tj ET
+BT /F2 17 Tf 0.090 0.196 0.302 rg 1 0 0 1 308 294 Tm (1. Find form fields) Tj ET
+BT /F2 17 Tf 0.090 0.196 0.302 rg 1 0 0 1 308 259 Tm (2. Listen for submit) Tj ET
+BT /F2 17 Tf 0.090 0.196 0.302 rg 1 0 0 1 308 224 Tm (3. Check values) Tj ET
+BT /F1 13 Tf 0.322 0.420 0.510 rg 1 0 0 1 308 189 Tm (app.js uses the page \(DOM\)) Tj ET
+q
+1.000 1.000 1.000 rg
+0.847 0.890 0.933 RG 1.2 w
+591 166 m 739 166 l 753 166 753 180 c 753 350 l 753 364 739 364 c 591 364 l 577 364 577 350 c 577 180 l 577 166 591 166 c
+B
+Q
+BT /F2 12 Tf 0.392 0.502 0.604 rg 1 0 0 1 598 334 Tm (PAGE RESPONSE) Tj ET
+BT /F2 17 Tf 0.090 0.196 0.302 rg 1 0 0 1 598 291 Tm (Show a message) Tj ET
+BT /F1 14 Tf 0.137 0.396 0.596 rg 1 0 0 1 598 257 Tm (Application ready) Tj ET
+BT /F1 14 Tf 0.137 0.396 0.596 rg 1 0 0 1 598 236 Tm (for review.) Tj ET
+BT /F2 13 Tf 0.322 0.420 0.510 rg 1 0 0 1 598 197 Tm (No server yet) Tj ET
+q 3 w
+0.196 0.451 0.659 RG 253 266 m 283 266 l S
+283 266 m 275.01704569498645 261.84398742012667 l 275.01704569498645 270.15601257987333 l h f
+Q
+q 3 w
+0.196 0.451 0.659 RG 544 266 m 574 266 l S
+574 266 m 566.0170456949865 261.84398742012667 l 566.0170456949865 270.15601257987333 l h f
+Q
+q
+0.071 0.188 0.290 rg
+60 52 m 741 52 l 753 52 753 64 c 753 120 l 753 132 741 132 c 60 132 l 48 132 48 120 c 48 64 l 48 52 60 52 c
+f
+Q
+BT /F2 12 Tf 0.663 0.824 0.941 rg 1 0 0 1 68 105 Tm (The key idea) Tj ET
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 68 72 Tm (HTML form  >  JavaScript event  >  updated page) Tj ET
+BT /F1 13 Tf 0.322 0.420 0.510 rg 1 0 0 1 48 20 Tm (JavaScript runs in the browser and can read or update HTML elements.) Tj ET
+BT /F2 12 Tf 0.392 0.502 0.604 rg 1 0 0 1 870 21 Tm (1 / 2) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Length 3337 >>
+stream
+q
+0.957 0.969 0.984 rg
+0 0 m 960 0 l 960 0 960 0 c 960 540 l 960 540 960 540 c 0 540 l 0 540 0 540 c 0 0 l 0 0 0 0 c
+f
+Q
+BT /F2 12 Tf 0.196 0.451 0.659 rg 1 0 0 1 48 500 Tm (02  /  SERVER) Tj ET
+BT /F2 34 Tf 0.071 0.188 0.290 rg 1 0 0 1 48 451 Tm (What is Node.js?) Tj ET
+BT /F1 17 Tf 0.322 0.420 0.510 rg 1 0 0 1 48 422 Tm (Node.js runs JavaScript on the computer to receive the form submission.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.847 0.890 0.933 RG 1.2 w
+62 191 m 228 191 l 242 191 242 205 c 242 343 l 242 357 228 357 c 62 357 l 48 357 48 343 c 48 205 l 48 191 62 191 c
+B
+Q
+BT /F2 12 Tf 0.392 0.502 0.604 rg 1 0 0 1 68 327 Tm (BROWSER) Tj ET
+BT /F2 17 Tf 0.090 0.196 0.302 rg 1 0 0 1 68 290 Tm (Student application) Tj ET
+BT /F1 13 Tf 0.322 0.420 0.510 rg 1 0 0 1 68 260 Tm (Name + email + programme) Tj ET
+q
+0.898 0.945 0.984 rg
+74 213 m 172 213 l 178 213 178 219 c 178 234 l 178 240 172 240 c 74 240 l 68 240 68 234 c 68 219 l 68 213 74 213 c
+f
+Q
+BT /F2 12 Tf 0.137 0.396 0.596 rg 1 0 0 1 82 223 Tm (Submit \(POST\)) Tj ET
+q
+0.918 0.957 0.988 rg
+0.722 0.839 0.925 RG 1.2 w
+350 172 m 612 172 l 626 172 626 186 c 626 365 l 626 379 612 379 c 350 379 l 336 379 336 365 c 336 186 l 336 172 350 172 c
+B
+Q
+BT /F2 12 Tf 0.196 0.451 0.659 rg 1 0 0 1 359 348 Tm (NODE.JS + EXPRESS) Tj ET
+BT /F2 20 Tf 0.090 0.196 0.302 rg 1 0 0 1 359 302 Tm (Runs the server) Tj ET
+BT /F1 14 Tf 0.090 0.196 0.302 rg 1 0 0 1 359 273 Tm (Express route: POST /applications) Tj ET
+BT /F1 14 Tf 0.090 0.196 0.302 rg 1 0 0 1 359 240 Tm (Reads fields from req.body) Tj ET
+BT /F1 13 Tf 0.322 0.420 0.510 rg 1 0 0 1 359 202 Tm (Sends a response to the browser) Tj ET
+q
+0.071 0.188 0.290 rg
+728 191 m 898 191 l 912 191 912 205 c 912 343 l 912 357 898 357 c 728 357 l 714 357 714 343 c 714 205 l 714 191 728 191 c
+f
+Q
+BT /F2 12 Tf 0.663 0.824 0.941 rg 1 0 0 1 735 327 Tm (SERVER TERMINAL) Tj ET
+BT /F2 14 Tf 1.000 1.000 1.000 rg 1 0 0 1 735 287 Tm (Application received) Tj ET
+BT /F1 13 Tf 0.725 0.839 0.918 rg 1 0 0 1 735 260 Tm (Name: Amina) Tj ET
+BT /F1 13 Tf 0.725 0.839 0.918 rg 1 0 0 1 735 236 Tm (Programme: CS) Tj ET
+q 3 w
+0.196 0.451 0.659 RG 242 267 m 333 267 l S
+333 267 m 325.01704569498645 262.84398742012667 l 325.01704569498645 271.15601257987333 l h f
+Q
+q 3 w
+0.196 0.451 0.659 RG 626 267 m 711 267 l S
+711 267 m 703.0170456949865 262.84398742012667 l 703.0170456949865 271.15601257987333 l h f
+Q
+BT /F2 11 Tf 0.322 0.420 0.510 rg 1 0 0 1 248 286 Tm (HTTP request) Tj ET
+BT /F2 11 Tf 0.322 0.420 0.510 rg 1 0 0 1 632 286 Tm (log data) Tj ET
+q 2 w
+0.333 0.643 0.510 RG 610 181 m 252 181 l S
+252 181 m 259.98295430501355 185.15601257987333 l 259.98295430501355 176.84398742012667 l h f
+Q
+BT /F2 13 Tf 0.204 0.471 0.373 rg 1 0 0 1 355 157 Tm (Server response: Application received) Tj ET
+q
+1.000 1.000 1.000 rg
+0.847 0.890 0.933 RG 1.2 w
+60 52 m 900 52 l 912 52 912 64 c 912 114 l 912 126 900 126 c 60 126 l 48 126 48 114 c 48 64 l 48 52 60 52 c
+B
+Q
+BT /F2 12 Tf 0.196 0.451 0.659 rg 1 0 0 1 70 100 Tm (THE KEY IDEA) Tj ET
+BT /F2 19 Tf 0.090 0.196 0.302 rg 1 0 0 1 70 68 Tm (Browser sends form  >  Node.js/Express receives it  >  Server replies) Tj ET
+BT /F1 13 Tf 0.322 0.420 0.510 rg 1 0 0 1 48 20 Tm (This classroom example prints submitted values; it does not save them to a database.) Tj ET
+BT /F2 12 Tf 0.392 0.502 0.604 rg 1 0 0 1 870 21 Tm (2 / 2) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 7 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 7 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+7 0 obj
+<< /Type /Pages /Kids [5 0 R 6 0 R] /Count 2 >>
+endobj
+8 0 obj
+<< /Type /Catalog /Pages 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000000160 00000 n 
+0000003316 00000 n 
+0000006705 00000 n 
+0000006841 00000 n 
+0000006977 00000 n 
+0000007040 00000 n 
+trailer
+<< /Size 9 /Root 8 0 R >>
+startxref
+7089
+%%EOF

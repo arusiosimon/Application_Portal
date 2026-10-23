@@ -55,17 +55,17 @@ body {
 /* University name: keep on one line */
 .university-title {
     color: darkslategray;
-    font-size: 13px;
-    line-height: 1.4;
+    font-size: 25px;
+    line-height: 1.5;
     text-align: center;
-    white-space: nowrap;
+   /* white-space: nowrap;*/
     margin: 0 0 12px;
 }
 
 /* Admission application heading */
 .application-title {
     color: royalblue;
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
     margin: 0 0 8px;
 }
@@ -172,7 +172,7 @@ a:hover {
     }
 
     .university-title {
-        font-size: 10px;
+        font-size: 18px;
     }
 
     .application-title {
